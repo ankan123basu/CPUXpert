@@ -50,18 +50,19 @@ GitHub → Version control and project management
 Jupyter Notebook → Testing and algorithm validation
 
 📦 Installation
-Clone the Repository
+Clone the Repository ->
 git clone https://github.com/yourusername/cpu-scheduler-simulator.git
 
 cd cpu-scheduler-simulator
 
-Install Dependencies
+Install Dependencies ->
 pip install -r requirements.txt
 
-Run the Application
+Run the Application ->
 python main.py
 
 🎮 Usage
+
 Input Processes: Define Arrival Time, Burst Time, and Priority
 
 Select Scheduling Algorithm: Choose from FCFS, SJF, Round Robin, or Priority Scheduling
@@ -87,20 +88,12 @@ Performance Metrics Display
 🤝 Contributing
 Fork the Repository
 
-Create a New Branch:
+Create a New Branch: ->
 git checkout -b feature/your-feature-name
 
 Make Your Changes
-Commit and Push:
+Commit and Push: ->
 git commit -m "Added new feature"
 git push origin feature/your-feature-name
 Create a Pull Request
 
-
-## Usage
-
-1. Add processes using the input form
-2. Select desired scheduling algorithm
-3. Click "Start Simulation" to run
-4. View results in real-time through Gantt chart
-5. Analyze performance metrics
