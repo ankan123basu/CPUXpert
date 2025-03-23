@@ -14,7 +14,7 @@ class TaskManagerWindow:
         self.window.title("Process Performance Monitor")
         self.window.geometry("1000x800")
         
-        self.scheduler = scheduler
+        self.scheduler = 0
         self.running = True
         self.start_time = time.time()
         self.current_algorithm = "FCFS"  # Default algorithm
