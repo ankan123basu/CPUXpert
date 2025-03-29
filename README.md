@@ -60,7 +60,7 @@ Jupyter Notebook → Testing and algorithm validation
 
 📦 Installation
 Clone the Repository ->
-git clone https://github.com/yourusername/cpu-scheduler-simulator.git
+git clone https://github.com/ankan123basu/cpu-scheduler-simulator.git
 
 cd cpu-scheduler-simulator
 
