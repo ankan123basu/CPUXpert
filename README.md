@@ -36,6 +36,7 @@ Analyzes system workload and process characteristics
 Suggests the most efficient scheduling algorithm dynamically
 Adaptive scheduling that optimizes based on real-time performance
 
+## 📁 Directory Structure
 ```bash
 OS_PROJECT/
 ├── __pycache__/                  # Compiled bytecode files
