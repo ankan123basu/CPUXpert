@@ -36,6 +36,18 @@ Analyzes system workload and process characteristics
 Suggests the most efficient scheduling algorithm dynamically
 Adaptive scheduling that optimizes based on real-time performance
 
+```bash
+OS_PROJECT/
+├── __pycache__/                  # Compiled bytecode files
+│   ├── scheduler.cpython-*.pyc
+│   └── task_manager.cpython-*.pyc
+│
+├── main.py                       # Main entry point for the project
+├── scheduler.py                  # Scheduling algorithms and logic
+├── task_manager.py              # Handles task/process management
+├── requirements.txt              # Python dependencies
+├── README.md                     # Project documentation
+```
 
 🛠 Technologies Used
 
