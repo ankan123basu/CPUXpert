@@ -1,7 +1,7 @@
 # CPU Scheduling Simulator
 
 An interactive CPU scheduling algorithm simulator that demonstrates various scheduling algorithms including FCFS, SJF, Round Robin, and Priority Scheduling.
- It also demonstrates real-time system monitoring, AI-driven recommendations, and 3D process visualization
+It also demonstrates real-time system monitoring, AI-driven recommendations, and 3D process visualization
  
 ![Screenshot 2025-03-29 191258](https://github.com/user-attachments/assets/9793beef-aaa2-460d-a149-6e7bed0c341d)
 
