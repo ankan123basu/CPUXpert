@@ -1,5 +1,7 @@
 # CPU Scheduling Simulator
 
+[![GitHub release](https://img.shields.io/github/v/release/ankan123basu/OS-PROJ-SmartCPUSim?style=for-the-badge&label=Latest%20Release)](https://github.com/ankan123basu/OS-PROJ-SmartCPUSim/releases/latest)
+
 An interactive CPU scheduling algorithm simulator that demonstrates various scheduling algorithms including FCFS, SJF, Round Robin, and Priority Scheduling.
  It also demonstrates real-time system monitoring, AI-driven recommendations, and 3D process visualization
 
@@ -75,6 +77,12 @@ Analyze Performance: View Waiting Time, Turnaround Time, and Throughput
 
 AI Recommendations: Receive optimal scheduling algorithm suggestions based on system workload
 
+## 🚀 Download the Latest Release
+
+[⬇️ **Download Windows Executable**](https://github.com/ankan123basu/OS-PROJ-SmartCPUSim/releases/latest/download/main.exe)
+
+> **Just double-click the .exe — no installation needed!**
+
 📊 Example Outputs
 Gantt Chart Example
 Performance Metrics Display
@@ -96,4 +104,3 @@ Commit and Push: ->
 git commit -m "Added new feature"
 git push origin feature/your-feature-name
 Create a Pull Request
-
