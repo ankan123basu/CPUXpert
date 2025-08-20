@@ -3,7 +3,7 @@
 [![GitHub release](https://img.shields.io/github/v/release/ankan123basu/OS-PROJ-SmartCPUSim?style=for-the-badge&label=Latest%20Release)](https://github.com/ankan123basu/OS-PROJ-SmartCPUSim/releases/latest)
 
 An interactive CPU scheduling algorithm simulator that demonstrates various scheduling algorithms including FCFS, SJF, Round Robin, and Priority Scheduling.
-It also demonstrates real-time system monitoring, AI-driven recommendations, and 3D process visualization
+It also demonstrates real-time system monitoring, AI-driven recommendations, and 3D process visualizations
 
 <img width="1919" height="1016" alt="Screenshot 2025-03-29 191320" src="https://github.com/user-attachments/assets/62a2f0a6-4d12-4de5-9f26-06fcaa71c6cd" />
 
